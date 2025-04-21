@@ -69,10 +69,7 @@ mkdir lab-solidity-arrays-modifiers
       
     
 
-```javascript  
-require('@nomiclabs/hardhat-ethers');
-
-  
+```javascript
 
 module.exports = {
 
