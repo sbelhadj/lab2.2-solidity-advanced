@@ -57,9 +57,7 @@ Avant de commencer ce lab, assurez-vous d'avoir configuré votre environnement c
 Installer les dépendances en utilisant npm :  
   
 ```bash  
-cd lab-solidity-arrays-modifiers
-
-npm install
+mkdir lab-solidity-arrays-modifiers
 
 ```
 
